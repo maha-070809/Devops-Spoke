@@ -4,19 +4,19 @@
         <description/>
         <name>TEST ignore</name>
         <record_for_rollback>false</record_for_rollback>
-        <script><![CDATA[// ignore]]></script>
+        <script><![CDATA[// ignore 2]]></script>
         <sys_class_name>sys_script_fix</sys_class_name>
         <sys_created_by>dontamsetty.m@hcl.com</sys_created_by>
         <sys_created_on>2022-02-07 11:33:23</sys_created_on>
         <sys_id>0575c9191b614510089dc9961a4bcb04</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>TEST ignore</sys_name>
         <sys_package display_value="Devops CICD" source="x_hclte_devops_cic">8e5585191b614510089dc9961a4bcb25</sys_package>
         <sys_policy/>
         <sys_scope display_value="Devops CICD">8e5585191b614510089dc9961a4bcb25</sys_scope>
         <sys_update_name>sys_script_fix_0575c9191b614510089dc9961a4bcb04</sys_update_name>
         <sys_updated_by>dontamsetty.m@hcl.com</sys_updated_by>
-        <sys_updated_on>2022-02-07 11:33:23</sys_updated_on>
+        <sys_updated_on>2022-02-07 18:06:15</sys_updated_on>
         <unloadable>false</unloadable>
     </sys_script_fix>
 </record_update>
